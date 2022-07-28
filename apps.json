@@ -5,7 +5,7 @@
     "sourceLinkTitle": "主页",
     "sourceLinkUrl": "https://github.com/BonnieBTC/MoneyApps",
     "sourceImage": "https://raw.githubusercontent.com/BonnieBTC/MoneyApps/main/assets/logo.png",
-    "sourceUpdateTime": "2022-07-16T19:00:00+0800",
+    "sourceUpdateTime": "2022-07-17T19:00:00+0800",
     "sourceDescription": "這裡分發最新版本的幣安測試 App",
     "appCategories": [
         "工具"
@@ -14,9 +14,9 @@
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-07-16T19:00:00+0800",
+            "appUpdateTime": "2022-07-17T19:00:00+0800",
             "appName": "Binance Test App",
-            "appVersion": "0.3.2",
+            "appVersion": "0.3.3",
             "appImage": "https://raw.githubusercontent.com/BonnieBTC/MoneyApps/main/assets/logo.png",
             "appPackage": "https://github.com/BonnieBTC/MoneyApps/blob/main/assets/fbinance.ipa?raw=true",
             "appDescription": "增加了激活功能，默認啟用價格刷新，首頁移除了 5 週年樣式"
